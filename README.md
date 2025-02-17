@@ -1,9 +1,13 @@
+This is a reproduction repo of [an issue](https://github.com/vercel/next.js/issues/76111) I filed in vercel/nextjs.
+
 ```bash
 npm i
 npm run dev
 
 # visit http://localhost:3000/foo to see the error both in the terminal and also the browser
 ```
+
+**Error**
 
 ```
 Ecmascript file had an error
